@@ -1,0 +1,9 @@
+---
+title: "lab_attendance"
+author: Bailey Stender
+format: html
+editor: visual
+---
+
+## In class I learned how to connect my local repository with github.
+
